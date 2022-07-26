@@ -1,0 +1,14 @@
+{
+  "name": "puppeter",
+  "version": "1.0.0",
+  "description": "usando puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Rebeca Divina",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^14.1.1"
+  }
+}
